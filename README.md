@@ -12,11 +12,11 @@ Kullanıcıdan sınırsız sayıda film adı ve imdb puanı isteyip bu bilgilerl
 
  Kullanıcıya her film eklemesinden sonra yeni bir film eklemek isteyip istemediği sorulsun. Kullanıcı evet cevabını verirse döngüde başa dönülerek yeni bir film oluşturulup ilgili listeye aktarılsın. Hayır cevabı verilirse program aşağıdaki çıktıları ayrı ayrı sunarak sonlandırılsın.
 
- **1) Bütün filmler listelensin.
+ 1) Bütün filmler listelensin.
 
  2) Imdb puanı 4 ile 9 arasında olan bütün filmler listelensin.
 
- 3) İsmi 'A' ile başlayan filmler ve imdb puanları listelensin.**
+ 3) İsmi 'A' ile başlayan filmler ve imdb puanları listelensin.
  
 
 ![image](https://github.com/user-attachments/assets/8790aaa5-3142-4719-9487-69d081feaee3)
