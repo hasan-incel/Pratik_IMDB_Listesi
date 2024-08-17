@@ -1,6 +1,7 @@
 **C# dilinde Array pratiği çözüyorum.**
 
 **Pratik - IMDB Listesi**
+
 Aşağıda belirtilen adımları gerçekleştirerek bir Imdb - Film Listesi oluşturuyoruz.
 
 Sinema Filmlerini listeleyeceğimiz bir liste oluşturalım.
